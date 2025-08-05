@@ -1,0 +1,70 @@
+D:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.exe
+D:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.deps.json
+D:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.runtimeconfig.json
+D:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.dll
+D:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.pdb
+D:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.AssemblyInfoInputs.cache
+D:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.AssemblyInfo.cs
+D:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+D:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.dll
+D:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\refint\CalculadoraIMC.dll
+D:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.pdb
+D:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.genruntimeconfig.cache
+D:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\ref\CalculadoraIMC.dll
+C:\Users\isabe\OneDrive\Desktop\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.exe
+C:\Users\isabe\OneDrive\Desktop\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.deps.json
+C:\Users\isabe\OneDrive\Desktop\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.runtimeconfig.json
+C:\Users\isabe\OneDrive\Desktop\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.dll
+C:\Users\isabe\OneDrive\Desktop\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.pdb
+C:\Users\isabe\OneDrive\Desktop\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\OneDrive\Desktop\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive\Desktop\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\isabe\OneDrive\Desktop\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Desktop\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.dll
+C:\Users\isabe\OneDrive\Desktop\CalculadoraIMC\obj\Debug\net8.0\refint\CalculadoraIMC.dll
+C:\Users\isabe\OneDrive\Desktop\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.pdb
+C:\Users\isabe\OneDrive\Desktop\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.genruntimeconfig.cache
+C:\Users\isabe\OneDrive\Desktop\CalculadoraIMC\obj\Debug\net8.0\ref\CalculadoraIMC.dll
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.exe
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.AssemblyInfoInputs.cache
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.AssemblyInfo.cs
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.dll
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\refint\CalculadoraIMC.dll
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.pdb
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.deps.json
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.runtimeconfig.json
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.dll
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.pdb
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.genruntimeconfig.cache
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC\obj\Debug\net8.0\ref\CalculadoraIMC.dll
+E:\c#\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.exe
+E:\c#\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.deps.json
+E:\c#\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.runtimeconfig.json
+E:\c#\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.dll
+E:\c#\CalculadoraIMC\bin\Debug\net8.0\CalculadoraIMC.pdb
+E:\c#\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.AssemblyInfoInputs.cache
+E:\c#\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.AssemblyInfo.cs
+E:\c#\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+E:\c#\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.dll
+E:\c#\CalculadoraIMC\obj\Debug\net8.0\refint\CalculadoraIMC.dll
+E:\c#\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.pdb
+E:\c#\CalculadoraIMC\obj\Debug\net8.0\CalculadoraIMC.genruntimeconfig.cache
+E:\c#\CalculadoraIMC\obj\Debug\net8.0\ref\CalculadoraIMC.dll
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC - v2.0\bin\Debug\net8.0\CalculadoraIMC.exe
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC - v2.0\bin\Debug\net8.0\CalculadoraIMC.deps.json
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC - v2.0\bin\Debug\net8.0\CalculadoraIMC.runtimeconfig.json
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC - v2.0\bin\Debug\net8.0\CalculadoraIMC.dll
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC - v2.0\bin\Debug\net8.0\CalculadoraIMC.pdb
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC - v2.0\obj\Debug\net8.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC - v2.0\obj\Debug\net8.0\CalculadoraIMC.AssemblyInfoInputs.cache
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC - v2.0\obj\Debug\net8.0\CalculadoraIMC.AssemblyInfo.cs
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC - v2.0\obj\Debug\net8.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC - v2.0\obj\Debug\net8.0\CalculadoraIMC.dll
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC - v2.0\obj\Debug\net8.0\refint\CalculadoraIMC.dll
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC - v2.0\obj\Debug\net8.0\CalculadoraIMC.pdb
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC - v2.0\obj\Debug\net8.0\CalculadoraIMC.genruntimeconfig.cache
+E:\c#\Conceitos + prática (básico ao avançado)\CalculadoraIMC - v2.0\obj\Debug\net8.0\ref\CalculadoraIMC.dll

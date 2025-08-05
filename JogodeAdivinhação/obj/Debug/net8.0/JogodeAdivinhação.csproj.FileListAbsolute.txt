@@ -1,0 +1,14 @@
+E:\c#\Conceitos + prática (básico ao avançado)\JogodeAdivinhação\obj\Debug\net8.0\JogodeAdivinhação.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Conceitos + prática (básico ao avançado)\JogodeAdivinhação\obj\Debug\net8.0\JogodeAdivinhação.AssemblyInfoInputs.cache
+E:\c#\Conceitos + prática (básico ao avançado)\JogodeAdivinhação\obj\Debug\net8.0\JogodeAdivinhação.AssemblyInfo.cs
+E:\c#\Conceitos + prática (básico ao avançado)\JogodeAdivinhação\obj\Debug\net8.0\JogodeAdivinhação.csproj.CoreCompileInputs.cache
+E:\c#\Conceitos + prática (básico ao avançado)\JogodeAdivinhação\bin\Debug\net8.0\JogodeAdivinhação.exe
+E:\c#\Conceitos + prática (básico ao avançado)\JogodeAdivinhação\bin\Debug\net8.0\JogodeAdivinhação.deps.json
+E:\c#\Conceitos + prática (básico ao avançado)\JogodeAdivinhação\bin\Debug\net8.0\JogodeAdivinhação.runtimeconfig.json
+E:\c#\Conceitos + prática (básico ao avançado)\JogodeAdivinhação\bin\Debug\net8.0\JogodeAdivinhação.dll
+E:\c#\Conceitos + prática (básico ao avançado)\JogodeAdivinhação\bin\Debug\net8.0\JogodeAdivinhação.pdb
+E:\c#\Conceitos + prática (básico ao avançado)\JogodeAdivinhação\obj\Debug\net8.0\JogodeAdivinhação.dll
+E:\c#\Conceitos + prática (básico ao avançado)\JogodeAdivinhação\obj\Debug\net8.0\refint\JogodeAdivinhação.dll
+E:\c#\Conceitos + prática (básico ao avançado)\JogodeAdivinhação\obj\Debug\net8.0\JogodeAdivinhação.pdb
+E:\c#\Conceitos + prática (básico ao avançado)\JogodeAdivinhação\obj\Debug\net8.0\JogodeAdivinhação.genruntimeconfig.cache
+E:\c#\Conceitos + prática (básico ao avançado)\JogodeAdivinhação\obj\Debug\net8.0\ref\JogodeAdivinhação.dll

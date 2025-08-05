@@ -1,0 +1,42 @@
+E:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.exe
+E:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.deps.json
+E:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.runtimeconfig.json
+E:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.dll
+E:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.pdb
+E:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.AssemblyInfoInputs.cache
+E:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.AssemblyInfo.cs
+E:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.csproj.CoreCompileInputs.cache
+E:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.dll
+E:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\refint\jogo da forca.dll
+E:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.pdb
+E:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.genruntimeconfig.cache
+E:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\ref\jogo da forca.dll
+D:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.AssemblyInfoInputs.cache
+D:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.AssemblyInfo.cs
+D:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.csproj.CoreCompileInputs.cache
+D:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.dll
+D:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\refint\jogo da forca.dll
+D:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.pdb
+D:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.exe
+D:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.deps.json
+D:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.runtimeconfig.json
+D:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.dll
+D:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.pdb
+D:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.genruntimeconfig.cache
+D:\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\ref\jogo da forca.dll
+D:\html e css\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.exe
+D:\html e css\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.deps.json
+D:\html e css\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.runtimeconfig.json
+D:\html e css\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.dll
+D:\html e css\c#\Conceitos + prática (básico ao avançado)\jogo da forca\bin\Debug\net8.0\jogo da forca.pdb
+D:\html e css\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.GeneratedMSBuildEditorConfig.editorconfig
+D:\html e css\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.AssemblyInfoInputs.cache
+D:\html e css\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.AssemblyInfo.cs
+D:\html e css\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.csproj.CoreCompileInputs.cache
+D:\html e css\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.dll
+D:\html e css\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\refint\jogo da forca.dll
+D:\html e css\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.pdb
+D:\html e css\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\jogo da forca.genruntimeconfig.cache
+D:\html e css\c#\Conceitos + prática (básico ao avançado)\jogo da forca\obj\Debug\net8.0\ref\jogo da forca.dll

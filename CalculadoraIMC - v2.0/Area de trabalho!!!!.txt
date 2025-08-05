@@ -1,0 +1,21 @@
+O operador ternário é uma forma concisa de escrever uma condição if-else em uma única linha. A sintaxe é:
+condição ? expressão_se_verdadeiro : expressão_se_falso
+
+Exemplo:
+string status = ativo ? "Ativo" : "Sedentário";
+--criou uma variavel e esta armazenando nela o resultado da comparaçao da variavel ativo 
+
+em if-else
+string status;
+if (ativo)
+{
+    status = "Ativo";
+}
+else
+{
+    status = "Sedentário";
+}
+
+Console.WriteLine(ativo ? 
+    "Continue com sua rotina de exercícios!" :
+    "Considere incluir atividades físicas em sua rotina.");
